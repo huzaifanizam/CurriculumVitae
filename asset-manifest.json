@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Curriculum-vitae/static/css/main.980ddfc2.css",
+    "main.js": "/Curriculum-vitae/static/js/main.59434883.js",
+    "index.html": "/Curriculum-vitae/index.html",
+    "main.980ddfc2.css.map": "/Curriculum-vitae/static/css/main.980ddfc2.css.map",
+    "main.59434883.js.map": "/Curriculum-vitae/static/js/main.59434883.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.980ddfc2.css",
+    "static/js/main.59434883.js"
+  ]
+}
